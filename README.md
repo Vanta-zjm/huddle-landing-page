@@ -1,34 +1,30 @@
 # Huddle Landing Page
 
-A beginner-friendly landing page created to practice basic HTML and CSS layout skills. This static webpage simulates a product showcase for a collaboration platform.
+A beginner-level landing page built to practice layout structure and visual balance using HTML and CSS.
 
-## 🔧 Features
+## 🌐 Live Demo  
+[👉 View Online](https://vanta-zjm.github.io/huddle-landing-page/index.html)
 
-- Simple and clean layout with consistent spacing
-- Semantic HTML5 structure
-- Button and text styling for visual consistency
-- Hover effect implementation
-
-## 🌐 Preview
-
-[Live Demo (GitHub Pages)](https://vanta-zjm.github.io/huddle-landing-page/index.html)
+## 📸 Preview  
+![Project Screenshot](assets/preview.jpeg)
 
 ## 🛠️ Built With
-
 - HTML5
 - CSS3
 - Google Fonts
+- Semantic layout structure
 
-## 📸 Screenshots
+## ✨ Key Features
+- ✅ Clear image-text layout
+- ✅ Button styling and hover effects
+- ✅ Font pairing for visual hierarchy
+- ✅ Mobile responsiveness
 
-*(Insert preview screenshots here)*
-
-## 🎯 What I Learned
-
-- Translating design references into code
-- Improving structure and readability of HTML/CSS
-- Gaining confidence with layout fundamentals
+## 💡 What I Learned
+- Building from reference designs
+- Practicing layout precision with simple content
+- Understanding element alignment and whitespace usage
+- Gaining confidence with structure and styling basics
 
 ## 📄 License
-
-This project is licensed under the MIT License.
+MIT
