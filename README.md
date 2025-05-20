@@ -11,7 +11,7 @@ A beginner-friendly landing page created to practice basic HTML and CSS layout s
 
 ## 🌐 Preview
 
-[Live Demo (GitHub Pages)](https://vanta-zjm.github.io/huddle-landing-page/)
+[Live Demo (GitHub Pages)](https://vanta-zjm.github.io/huddle-landing-page/index.html)
 
 ## 🛠️ Built With
 
