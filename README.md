@@ -1,12 +1,12 @@
 # Huddle Landing Page
 
-A beginner-level landing page built to practice layout structure and visual balance using HTML and CSS.
+A clean, responsive landing page designed for a fictional team collaboration platform. This beginner-friendly layout replicates a product showcase website, built using semantic HTML and CSS for visual clarity and structural consistency.
 
 ## 🌐 Live Demo  
 [👉 View Online](https://vanta-zjm.github.io/huddle-landing-page/index.html)
 
 ## 📸 Preview  
-![Project Screenshot](assets/preview.jpeg)
+[👉 View Online]![Project Screenshot](assets/preview.jpeg)
 
 ## 🛠️ Built With
 - HTML5
