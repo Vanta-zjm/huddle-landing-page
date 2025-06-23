@@ -6,7 +6,7 @@ A clean, responsive landing page designed for a fictional team collaboration pla
 [👉 View Online](https://vanta-zjm.github.io/huddle-landing-page/index.html)
 
 ## 📸 Preview  
-[👉 View Online]![Project Screenshot](assets/preview.jpeg)
+[Project Screenshot](assets/preview.jpeg)
 
 ## 🛠️ Built With
 - HTML5
